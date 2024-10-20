@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400..700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Ruwudu:wght@400;500;600;700&display=swap');
+
+
+body {
+    background-image: linear-gradient(to bottom, #f6be00, #ffffc5);
+}
+
+.wlc {
+    font-family: "Dancing Script", cursive;
+}
+
+heading-1 {
+    font-family: "Ruwudu", serif;
+    font-weight: 900;
+}
+
+p {
+    font-family: initial;
+    font-weight: 500;
+}
+
+img {
+    width: 15%;
+}
+
+.container {
+    background-color: white;
+    margin: 30px 20% 30%;
+    padding: 20px 30px 60px;
+}
+
+.btn {
+    background-color: yellow;
+    border: 1px solid #000000;
+    font-weight: bolder;
+}
+
+.web {
+    background-color: #f6be00;
+}
+
+.learn {
+    border-bottom: 2px solid #f6be00;
+}
